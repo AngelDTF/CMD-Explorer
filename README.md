@@ -10,3 +10,6 @@ Alpha: NOT RECOMMENDED AT ALL! Your choice if you want to download these, but st
 
 # Changelog
 None because the program just released.
+
+# How to use
+Sorry I can't put any guides right now, so if it crashes, sorry. It's just my laptop's battery is dying right now.
