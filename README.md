@@ -18,7 +18,7 @@ Windows 8.1 (Tested)
 
 Windows 8 (Probably works but Untested)
 
-Windows 7 (Same as 8, but regular compression (.zip) doesn't work)
+Windows 7 (Same as 8, but regular compression (.zip) and opening files don't work)
 
 # Guide
 Coming soon!
