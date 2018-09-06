@@ -13,7 +13,7 @@ color 07
 cls
 title CMDE Intro
 echo ________________________________________________________________________________________________________________________
-echo [CMDE Version A1.1]
+echo [CMDE Version A1.01]
 echo Welcome to CMDE, User!
 echo.
 echo About:
