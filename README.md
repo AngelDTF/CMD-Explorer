@@ -11,5 +11,11 @@ Alpha: NOT RECOMMENDED AT ALL! Your choice if you want to download these, but st
 # Release Changelog
 None because the program just released.
 
-# How to use
-Sorry I can't put any guides right now, so if it crashes, sorry. It's just my laptop's battery is dying right now.
+# Compatible Versions of Windows
+Windows 10 (Tested on 1803)
+Windows 8.1 (Tested)
+Windows 8 (Probably works but Untested)
+Windows 7 (Same as 8, but regular compression (.zip) doesn't work)
+
+# Guide
+Coming soon!
