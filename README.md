@@ -8,7 +8,7 @@ Beta: Not as recommended as the Release build, but it's pretty decent. It also h
 
 Alpha: NOT RECOMMENDED AT ALL! Your choice if you want to download these, but still probably extremely buggy.
 
-# Changelog
+# Release Changelog
 None because the program just released.
 
 # How to use
