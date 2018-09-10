@@ -21,4 +21,7 @@ Windows 8 (Probably works but Untested)
 Windows 7 (Same as 8, but regular compression (.zip) and opening files don't work)
 
 # Guide
-Coming soon!
+You can either
+A: Read Guide.md for how to use it (Coming Soon)
+or
+B: Follow the YouTube Tutorial I made *link coming soon* for how to install and use it (Coming Soon)
