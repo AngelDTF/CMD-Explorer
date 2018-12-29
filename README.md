@@ -14,7 +14,7 @@ None because the program just released.
 # Compatible Versions of Windows
 Windows 10 (Tested on 1803)
 
-Windows 8.1 (Tested, but regular zip compressions (.zip) don't work.)
+Windows 8.1 (Tested, but regular zip compressions (.zip) requires this to be downloaded: https://www.microsoft.com/en-us/download/details.aspx?id=54616)
 
 Windows 8 (Probably works the same as 8.1, but Untested)
 
