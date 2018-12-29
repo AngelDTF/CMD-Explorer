@@ -14,11 +14,11 @@ None because the program just released.
 # Compatible Versions of Windows
 Windows 10 (Tested on 1803)
 
-Windows 8.1 (Tested)
+Windows 8.1 (Tested, but regular zip compressions (.zip) don't work.)
 
-Windows 8 (Probably works but Untested)
+Windows 8 (Probably works the same as 8.1, but Untested)
 
-Windows 7 (Same as 8, but regular compression (.zip) and opening files don't work)
+Windows 7 (Tested, but regular zip compression (.zip) and opening files don't work)
 
 # Guide
 You can either
